@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Dentist Clinic Template
 
-# Run and deploy your AI Studio app
+A modern, responsive, and easy-to-customize website template designed specifically for dental clinics and dental professionals.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/f24acea8-542d-44d6-919a-71db4d67b452
+- **Modern Design:** Aesthetic and clean layout that instills trust and professionalism.
+- **Responsive:** Looks great on desktops, tablets, and mobile devices.
+- **Customizable:** Easily update text, images, and brand colors.
+- **Fast:** Optimized for performance and SEO.
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
-
+**Prerequisites:** Node.js
 
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+2. Set your environment variables in `.env.local`.
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+## Customization
+
+You can update the clinic's details in the components or site configuration files as needed. 
+
+## License
+
+This project is open-source and available under the MIT License.
