@@ -1,0 +1,6 @@
+{
+  "name": "Aura Dental",
+  "description": "A modern, minimalistic template website for a single doctor clinic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
